@@ -1,0 +1,22 @@
+﻿@using Task.Web.Models
+@model Login
+@{
+    ViewBag.Title = "LogIn";
+}
+
+<h2>Enter your credential</h2>
+<dev>
+    @using (@Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        
+        <label>Enter Username</label>
+        @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })
+        <br/>
+        <label>Enter Password</label>
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-primary">Login</button>
+    }
+</dev>

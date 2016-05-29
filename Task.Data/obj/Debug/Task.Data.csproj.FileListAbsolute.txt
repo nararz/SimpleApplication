@@ -1,0 +1,88 @@
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Data\obj\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Data\obj\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\obj\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\obj\Debug\Task.Data.Migrations.InitialCreate.resources
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Data\obj\Debug\Task.Data.csproj.GenerateResource.Cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\obj\Debug\Task.Data.Migrations.InitialCreate.resources
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\obj\Debug\Task.Data.csproj.GenerateResource.Cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Data\obj\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Data\obj\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Data\obj\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\Task.Data.dll.config
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\obj\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Data\obj\Debug\Task.Data.pdb

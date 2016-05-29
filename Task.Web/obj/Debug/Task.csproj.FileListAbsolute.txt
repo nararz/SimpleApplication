@@ -1,0 +1,94 @@
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Antlr3.Runtime.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Autofac.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Autofac.Integration.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Microsoft.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Newtonsoft.Json.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Optimization.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.WebPages.Deployment.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.WebPages.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.WebPages.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\WebGrease.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\WebMatrix.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\WebMatrix.WebData.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Autofac.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Autofac.Integration.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Helpers.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Optimization.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.WebPages.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.WebPages.Deployment.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\System.Web.WebPages.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Antlr3.Runtime.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\WebMatrix.Data.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\WebMatrix.WebData.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\Newtonsoft.Json.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\obj\Debug\Task.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\obj\Debug\Task.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\log4net.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task\bin\log4net.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Antlr3.Runtime.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Autofac.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Autofac.Integration.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\EntityFramework.SqlServer.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\log4net.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Microsoft.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Newtonsoft.Json.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Optimization.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.WebPages.Deployment.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.WebPages.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.WebPages.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\WebGrease.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\WebMatrix.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\WebMatrix.WebData.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Autofac.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Autofac.Integration.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\EntityFramework.SqlServer.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\log4net.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Helpers.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Optimization.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.WebPages.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.WebPages.Deployment.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\System.Web.WebPages.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Antlr3.Runtime.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\WebMatrix.Data.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\WebMatrix.WebData.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\bin\Newtonsoft.Json.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\obj\Debug\Task.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task\obj\Debug\Task.pdb

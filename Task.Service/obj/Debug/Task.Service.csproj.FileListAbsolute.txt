@@ -1,0 +1,77 @@
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Service\obj\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\obj\Debug\Task.Service.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\obj\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Service\obj\Debug\Task.Service.pdb

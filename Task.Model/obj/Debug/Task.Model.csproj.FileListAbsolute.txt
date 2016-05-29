@@ -1,0 +1,29 @@
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V1\Task\Task.Model\obj\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V2\Task\Task.Model\obj\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Model\obj\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3 - Copy\Task\Task.Model\obj\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V4\Task\Task.Model\obj\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Model\obj\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Model\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Model\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Model\obj\Debug\Task.Model.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Model\obj\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Model\obj\Debug\Task.Model.pdb

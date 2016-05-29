@@ -1,0 +1,47 @@
+﻿@using Task.Web.Models
+@model List<GroupModel>
+@{
+    ViewBag.Title = "Groups";
+}
+
+<h2>Groups</h2>
+<div class="create-div">
+    @Html.ActionLink("Create new group", "CreateNewGroup", "Group", new { Area = "" }, new { @class = "btn btn-primary" })
+</div>
+
+<br>
+<table class="card-view-table">
+    @{
+        if (Model.Count > 0)
+        {
+            for (int i = 0; i < Model.Count; i += 3)
+            {
+                <tr>
+                    @for (int j = 0; j < 3; j++)
+                    {
+                        if (i + j < Model.Count)
+                        {
+                            <td>
+                                <div class="card card-block text-center" style="width: 18rem; background-color:rgba(214, 210, 212, 0.15); padding:5px 0 5px 0;">
+                                    <h3 class="card-title">@Model[i + j].Name</h3>
+                                    <p class="card-text">@Model[i + j].Description</p>
+                                    <p class="card-text">Members @Model[i + j].UserIds.Count</p>
+                                    @Html.ActionLink("Stories " + Model[i + j].StoriesCount, "GroupStories", "Story", new { Area = "", id = Model[i + j].Id }, null)
+                                    <br /><br />
+                                    @if (Model[i + j].UserIds.Exists(id=>id ==ViewBag.CurrentUserId))
+                                    {
+                                        <a class="btn btn-warning" onclick="LeaveGroup('@Model[i+j].Id',' @ViewBag.CurrentUserId', '@Url.Action("LeaveGroup", "Group", new { Area = "" })' )">Leave group</a>
+                                    }
+                                    else
+                                    {
+                                        <a class="btn btn-success" onclick="JoinTheGroup('@Model[i+j].Id',' @ViewBag.CurrentUserId', '@Url.Action("JoinTheGroup", "Group", new { Area = "" })' )">Join group</a>
+                                    }
+                                </div>
+                            </td>
+                        }
+                    }
+                </tr>
+            }
+        }
+    }
+</table>

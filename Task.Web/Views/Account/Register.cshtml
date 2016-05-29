@@ -1,0 +1,24 @@
+﻿@using Task.Web.Models
+@model Register
+@{
+    ViewBag.Title = "LogIn";
+}
+
+<h2>Register new user</h2>
+<dev>
+    @using (@Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary()
+        <label>Enter Username</label>
+        @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })
+        <br />
+        <label>Enter Password</label>
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        <br />
+        <label>Confirm Password</label>
+        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-primary">Register</button>
+    }
+</dev>

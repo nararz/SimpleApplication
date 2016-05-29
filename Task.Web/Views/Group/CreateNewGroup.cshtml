@@ -1,0 +1,23 @@
+﻿@using Task.Web.Models
+@model GroupModel
+@{
+    ViewBag.Title = "Create new group";
+}
+
+<h2>Create New Group</h2>
+<dev>
+    @using (@Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <label>Enter group name</label>
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        <br />
+        <label>Enter group description</label>
+        @Html.TextAreaFor(m => m.Description, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-primary">Create group</button>
+    }
+</dev>
+

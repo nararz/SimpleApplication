@@ -1,0 +1,63 @@
+﻿@using Task.Web.Models
+@using Task.Model.Models
+@model StoryDetailsModel
+
+@{
+    ViewBag.Title = "Create new story";
+    List<Group> groups = ViewBag.Groups != null ? (List<Group>)ViewBag.Groups : new List<Group>();
+}
+
+<h2>Create new story</h2>
+<dev>
+    @using (@Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <label>Enter story title</label>
+        @Html.TextBoxFor(m => m.Title, new { @class = "form-control" })
+        <br />
+        <label>Enter story description</label>
+        @Html.TextAreaFor(m => m.Description, new { @class = "form-control" })
+        <br />
+        <label>Enter story contetnt</label>
+        @Html.TextAreaFor(m => m.Content, new { @class = "form-control" })
+        <br />
+        <label>Enter group(s) to share story</label>
+        <br />
+        <div id="Groups">
+            @if (groups.Count > 0)
+            {
+                <table>
+                    @for (int i = 0; i < groups.Count; i += 3)
+                    {
+                        <tr>
+                            @for (int j = 0; j < 3; j++)
+                            {
+                                if (i + j < groups.Count)
+                                {
+                                    <td>
+                                        @if (Model != null && Model.Groups.Exists(g => g.Id == groups[i + j].Id))
+                                        {
+                                            <label class="checkbox-inline"><input type="checkbox" checked="checked" id="@(i+j)" value="" onclick="AddGroup('@groups[i+j].Id','@(i+j)')">@groups[i + j].Name</label>
+                                            <input id="Groups_@(i+j)__Id" name="Groups[@(i+j)].Id" type="hidden" value="@groups[i+j].Id">
+                                        }
+                                        else
+                                        {
+                                            <label class="checkbox-inline"><input type="checkbox" id="@(i+j)" value="" onclick="AddGroup('@groups[i+j].Id','@(i+j)')">@groups[i + j].Name</label>
+                                            <input id="Groups_@(i+j)__Id" name="Groups[@(i+j)].Id" type="hidden" value="0">
+                                        }
+                                        <input id="Groups_@(i+j)__Name" name="Groups[@(i+j)].Name" type="hidden" value="@groups[i+j].Name">
+                                        <input id="Groups_@(i+j)__Description" name="Groups[@(i+j)].Description" type="hidden" value="@groups[i+j].Description">
+                                    </td>
+                                }
+                            }
+                        </tr>
+                    }
+                </table>
+            }
+        </div>
+        <br />
+        <button class="btn btn-primary">Create story</button>
+    }
+</dev>

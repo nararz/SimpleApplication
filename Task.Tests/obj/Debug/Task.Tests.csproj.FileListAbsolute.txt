@@ -1,0 +1,148 @@
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Tests.dll.config
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Tests.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Tests.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\obj\Debug\Task.Tests.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\obj\Debug\Task.Tests.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\obj\Debug\Task.Tests.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Moq.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Autofac.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Moq.pdb
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Moq.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Autofac.xml
+C:\Users\narek.arzumanyan\Desktop\New folder\V3\Task\Task.Tests\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Tests.dll.config
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Tests.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Tests.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\log4net.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Microsoft.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Moq.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\MvcContrib.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\MvcContrib.TestHelper.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Autofac.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Task.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\log4net.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Moq.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Moq.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\MvcContrib.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\MvcContrib.TestHelper.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Autofac.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\obj\Debug\Task.Tests.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\obj\Debug\Task.Tests.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApllication\Task.Tests\obj\Debug\Task.Tests.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Tests.dll.config
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Tests.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Tests.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\log4net.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Microsoft.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Moq.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\MvcContrib.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\MvcContrib.TestHelper.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Model.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Service.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\EntityFramework.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Autofac.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Data.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Model.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.Service.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Task.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\log4net.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Moq.pdb
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Moq.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\MvcContrib.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\MvcContrib.TestHelper.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\EntityFramework.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Autofac.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\obj\Debug\Task.Tests.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\obj\Debug\Task.Tests.dll
+C:\Users\narek.arzumanyan\Desktop\SimpleApplication\Task.Tests\obj\Debug\Task.Tests.pdb

@@ -1,0 +1,32 @@
+﻿@using Task.Web.Models
+@model List<StoryModel>
+@{
+    ViewBag.Title = "Group stories";
+}
+
+<h2>@ViewBag.GroupName Group stories</h2>
+<br>
+<table class="card-view-table">
+    @{
+        if (Model.Count > 0)
+        {
+            for (int i = 0; i < Model.Count; i += 3)
+            {
+                <tr>
+                    @for (int j = 0; j < 3; j++)
+                    {
+                        if (i + j < Model.Count)
+                        {
+                            <td>
+                                <div class="card card-block story-body text-center">
+                                    <h3 class="card-title">@Model[i+j].Title</h3>
+                                    <a class="btn btn-primary story" href="~/Story/Story/@Model[i+j].Id">View</a>
+                                </div>
+                            </td>
+                        }
+                    }
+                </tr>
+            }
+        }
+    }
+</table>
